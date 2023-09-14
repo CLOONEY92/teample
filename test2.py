@@ -12,6 +12,7 @@ def f_sum(data):
         result += i
     return result
 
+
 # 오름차순으로 정렬해주는 함수
 def f_sort(data):
     data.sort(reverse=False)

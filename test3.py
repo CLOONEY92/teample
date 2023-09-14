@@ -6,6 +6,16 @@ print('aaaaa')
 
 print('침묵의 공공칠빵')
 
+print('공')
+
+print('공')
+
+print('7')
+
 print('ddddd')
 
 print('eeeee')
+
+print('빵')
+
+print('으악!')

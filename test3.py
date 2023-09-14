@@ -19,3 +19,5 @@ print('eeeee')
 print('빵')
 
 print('으악!')
+
+print('취업성공기원')

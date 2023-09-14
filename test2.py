@@ -12,6 +12,7 @@ def f_avg(data):
     ans = sum(data) / len(data)
     return(ans)
 
+
 # 오름차순으로 정렬해주는 함수
 def f_sort(data):
     data.sort(reverse=False)
